@@ -2,8 +2,11 @@
 this is a photo sharing application which you can share images of your favorite places with location
 
 **preview
-DEsktop view
+## Dssktop view
 ![desktop view]https://github.com/enyene/photoshare/blob/main/files/photo1.JPG?raw=true "Title")
+<p align="center">
+  <img src="https://github.com/enyene/photoshare/blob/main/files/photo1.JPG?raw=true" width="350" title="hover text">
+</p>
 
 
 **Create a Fork of this repository and edit it on your device and open a ``Pull Request`` to commit**
