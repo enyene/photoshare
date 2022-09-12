@@ -1,5 +1,10 @@
-# photoshare
+### photoshare
 this is a photo sharing application which you can share images of your favorite places with location
+
+**preview
+DEsktop view
+![desktop view](/files/des.JPG?raw=true "Title")
+
 
 **Create a Fork of this repository and edit it on your device and open a ``Pull Request`` to commit**
 
