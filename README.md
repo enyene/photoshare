@@ -5,7 +5,7 @@ this is a photo sharing application which you can share images of your favorite 
 
 # Steps
 1. download [git](https://git-scm.com/downloads) 
-2. Hit Fork ![image](https://user-images.githubusercontent.com/94789127/152694286-785b5b5d-b314-4108-a457-8ff5c23ed775.png)
+2. Hit Fork 
 3. After Fork has been successful copy the link from search-bar
 4. Go to your preffered folder ans Press ``Shift + F10`` and click ``git Bash Here``
 5. type ``git clone <Paste the copied URL>
